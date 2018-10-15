@@ -16,3 +16,7 @@ Route::get('/post', 'postController@index');
 //layout blog
 route::get('blog','blogcontroller@index');
 
+
+//forms exercise 
+route::get('/post/create','postcontroller@create')
+
