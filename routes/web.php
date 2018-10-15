@@ -18,5 +18,5 @@ route::get('blog','blogcontroller@index');
 
 
 //forms exercise 
-route::get('/post/create','postcontroller@create')
+route::get('/post/create','postcontroller@create');
 
