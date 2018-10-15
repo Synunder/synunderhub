@@ -25,7 +25,5 @@
        @yield('content')	
     </div>
     @include('postlayout.footer')
-
-    
   </body>
 </html>
